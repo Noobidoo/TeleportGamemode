@@ -1,0 +1,9 @@
+author: noobidoo
+database: false
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: net.crafthub.noobidoo.teleportgamemode.Teleportgamemode
+name: TeleportGamemode
+startup: postworld
+depend: [Vault]
+url: http://crafthub.net/
+version: '1.0'
